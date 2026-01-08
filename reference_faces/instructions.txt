@@ -1,0 +1,3 @@
+In this folder 'reference_faces' you will need to add the reference pictures to check the resemblance between you and the humans in the image.
+Replace the .txt files with image files.
+Thank you. 
